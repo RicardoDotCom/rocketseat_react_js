@@ -14,6 +14,7 @@
     "date-fns": "^4.1.0",
     "eslint": "^9.23.0",
     "hooks_pomodoro": "file:",
+    "immer": "^10.1.1",
     "phosphor-react": "^1.4.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
